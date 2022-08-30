@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Front and Back End
 - 📫 Reach me trought my email davidelana98@outlook.com
 
-<!---
 Enjoy my future Projects
---->
+
